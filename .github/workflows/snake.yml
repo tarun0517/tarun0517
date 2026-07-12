@@ -1,7 +1,7 @@
 name: GitHub Snake Game
 
 on:
-  # Run every day at midnight UTC
+  # Run every day at midnight UTCaa
   schedule:
     - cron: "0 0 * * *"
 
